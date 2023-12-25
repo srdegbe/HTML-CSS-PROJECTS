@@ -20,7 +20,8 @@ This repository is a creative playground where I explore the magic of web develo
    ...
 
 ### Landing Pages:
-*Coffee* <br>   
+*Coffee* <br>
+*Art* <br>
    ...
 
 ### ✨ Key Features:
