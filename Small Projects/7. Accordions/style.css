@@ -20,6 +20,7 @@ body {
   margin-bottom: 10px;
   background: #fff;
   padding: 10px;
+  border-radius: 5px;
 }
 
 #accordion li label {
@@ -34,7 +35,7 @@ body {
 }
 
 #accordion li label span {
-  transform: rotate(90deg);
+  /* transform: rotate(90deg); */
   font-size: 22px;
   color: dodgerblue;
 }
