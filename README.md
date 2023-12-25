@@ -9,14 +9,18 @@ This repository is a creative playground where I explore the magic of web develo
 ## 🎨 Projects Inside:
 
 ### Simple Projects:
-- **Creative Loading Animation** 
-- **Custom Scrollbar**
-
+*Creative Loading Animation* <br>
+*Custom Scrollbar* <br>
+*Creative Image Hover Effect* <br>
+*Creative Cards* <br>
+*Tooltip* <br>
+*Accordions* <br>
+*Scrollbar* <br>
+*Image Background Text* <br>
    ...
 
 ### Landing Pages:
-- **Coffee**
-   
+*Coffee* <br>   
    ...
 
 ### ✨ Key Features:
