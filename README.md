@@ -31,10 +31,12 @@ This repository is a creative playground where I explore the magic of web develo
 4. Submit a pull request and let's build something amazing together!
 
 ### 📚 Resources:
-<!-- - <a href="https://www.w3schools.com/" target="_blank"> Additional Learning Resources -->
+
 - [W3schools](https://www.w3schools.com/) - Additional Learning Resources
 <!-- - [Link 2 - Inspirational Websites]
 - [Link 3 - Helpful Guides] -->
+
+<!-- - <a href="https://www.w3schools.com/" target="_blank"> Additional Learning Resources -->
 
 ### 🌐 Connect with Us:
 - Join our [Community Link](#) for discussions, support, and inspiration.
